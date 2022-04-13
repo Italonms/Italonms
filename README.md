@@ -15,7 +15,7 @@
  const Eu  = {
      Formation: "Estudando Ciência da Computação" ,
      Soft Skills : "Flexibilidade, resiliência, trabalho em equipe, gerenciamento de tempo e resolução de problemas" ,
-     Study program : "Atualmente estou focando em estudar , JavaScript, HTML e CSS" ,
+     Study program : "Atualmente estou focando em estudar , JavaScript, HTML, CSS e Bootstrap" ,
      Place :  "São Paulo - Brasil" ,
      Tecnologia :  " Git e SQL" ,
     };
